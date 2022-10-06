@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👯 I’m looking to collaborate on [Arizona Development](https:://arizona-development.com)
+- 👯 I’m looking to collaborate on [Arizona Development](https://arizona-development.com)
 
 - 📫 How to reach me **support@arizona-development.com**
 
