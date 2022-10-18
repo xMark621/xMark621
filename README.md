@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Marko</h1>
-&nbsp;
 <h3 align="center">A Fivem Developer from Serbia</h3>
 &nbsp;
 
