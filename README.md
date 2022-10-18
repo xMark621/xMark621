@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Marko</h1>
 <h3 align="center">A Fivem Developer from Serbia</h3>
 
-- 🔭 I’m currently working on **FiveM**
+<span align="center">- 🔭 I’m currently working on **FiveM**<span>
 
-- 🌱 I’m currently learning **TypeScript**
+<span align="center">- 🌱 I’m currently learning **TypeScript**<span>
 
-- 👯 I’m looking to collaborate on [Arizona Development](https://arizona-development.com)
+<span align="center">- 👯 I’m looking to collaborate on [Arizona Development](https://arizona-development.com)<span>
 
-- 📫 How to reach me **support@arizona-development.com**
+<span align="center">- 📫 How to reach me **support@arizona-development.com**<span>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
